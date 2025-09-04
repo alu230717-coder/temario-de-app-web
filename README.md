@@ -75,6 +75,7 @@ Esta separación facilita el mantenimiento, escalabilidad y pruebas de la aplica
 Comprender estos fundamentos permite construir aplicaciones web modernas, funcionales y mantenibles, además de facilitar el trabajo en equipo y la integración de nuevas tecnologías.
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
+<img width="207" height="188" alt="image" src="https://github.com/user-attachments/assets/caad6d8b-3322-4296-9d53-762ee1491f19" />
 
 ---
 
