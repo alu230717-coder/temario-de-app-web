@@ -4,6 +4,7 @@
 ---
 
 ## 1. Introducción al desarrollo web
+<img width="364" height="178" alt="image" src="https://github.com/user-attachments/assets/86e73d4f-0cdf-4388-84a9-a1029760225d" />
 
 El **desarrollo web** consiste en la creación y mantenimiento de sitios o aplicaciones accesibles a través de navegadores. Su propósito es permitir la interacción entre usuarios y sistemas, brindando información, servicios y experiencias digitales.
 
