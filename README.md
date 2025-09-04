@@ -162,6 +162,7 @@ La seguridad protege la aplicación y los datos de los usuarios frente a amenaza
 El desarrollo de componentes y funcionalidades de una aplicación web requiere coordinar el diseño visual, la lógica del servidor, la gestión de datos y la seguridad para crear aplicaciones robustas y eficientes.
 
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
+<img width="308" height="168" alt="image" src="https://github.com/user-attachments/assets/5f1e84fd-36dc-4cd1-adc4-d54709d2e751" />
 
 ---
 
